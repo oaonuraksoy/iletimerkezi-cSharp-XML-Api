@@ -13,5 +13,7 @@ Program için ayarların nasıl yapılacağı için hemen aşağıdaki videoyu i
 [![İleti Merkezi C# Api](https://i.hizliresim.com/a3dpv1j.png "İleti Merkezi C# Api")](https://www.youtube.com/watch?v=q-UZsK0krAk "İleti Merkezi C# Api")
 
 Soruların için youtube videosunun yorumlar kısmını kullan. 
+
+[pre-Release](https://github.com/oaonuraksoy/iletimerkezi-cSharp-XML-Api/releases/tag/v0.1.0-alpha "PRE-RELEASE") 
 Peace & ❤
 
