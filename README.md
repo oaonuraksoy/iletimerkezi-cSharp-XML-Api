@@ -1,5 +1,5 @@
 Merhaba Dünya benOnur, 
-Nam-ı değer mi değmez mi bilmem ama bana ** Hackonomist** derler.
+Nam-ı değer mi değmez mi bilmem ama bana **Hackonomist** derler.
 
 İletimerkezine bu linkten ulaşabilirsin : [İleti Merkezi](https://www.iletimerkezi.com/ "İleti Merkezi")
 Api oluşturmak için giriş yaptıktan sonra **AYARLAR -> API** seçeneğine gelmen gerekiyor.
